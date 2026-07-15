@@ -506,4 +506,6 @@ A concise review path is:
 5. Read `analysis.py` for deterministic evidence and verification.
 6. Read `repository.py` for exact writes and ownership.
 7. Run `test_planning.py`, `test_orchestrator.py` and `test_repository.py`.
-8. Launch the Streamlit demo.
+8. Launch the Streamlit demo and test it with your own prompts. If example
+   prompts or expected behaviours are useful, optionally refer to
+   [GOLDEN_SCENARIOS.md](GOLDEN_SCENARIOS.md).
