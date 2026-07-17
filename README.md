@@ -1,10 +1,6 @@
 # Land Registry Agent
 
-A time-boxed AI Engineer take-home demonstrating a deterministic, human-approved property-research workflow built with LangGraph.
-
 The application interprets a natural-language request, creates a visible execution plan before external reads, retrieves HM Land Registry data, calculates evidence locally, drafts and verifies a grounded research note, and pauses before saving the exact approved report.
-
-This is a focused demonstration project, not a production platform.
 
 ## Example request
 
